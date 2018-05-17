@@ -1,0 +1,51 @@
+body{
+  background-color: black;
+}
+h2, div {
+  color: white;
+  display: inline;
+  font-family: sans-serif;
+  text-align: center;
+  width: 50%
+  float:right;
+}
+table{
+  border-collapse: collapse;
+  width: 100%;
+  background-color: #00FFFF;
+
+}
+td {
+  border: 5px solid black;
+  text-align: center;
+  padding: 15px;
+  font-family: sans-serif;
+  font-size: 16px
+}
+
+h1 {
+  text-align: center;
+  color: white;
+  font-family: sans-serif;
+  font-size: 40px
+}
+th{
+  width: 50%;
+  color: black;
+  background-color: yellow;
+  text-align: center;
+  padding: 15px;
+  font-family: sans-serif;
+  font-size: 16px
+}
+#Sorry {
+  width: 100%;
+  font-size: 250%;
+  color: #48D1CC;
+  float: right;
+  padding-top: 20px;
+}
+#Bienvenido {
+  float: right;
+  width: 50%
+}
